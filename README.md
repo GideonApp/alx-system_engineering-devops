@@ -1,1 +1,1 @@
-platform for studies
+ i/o redirection
